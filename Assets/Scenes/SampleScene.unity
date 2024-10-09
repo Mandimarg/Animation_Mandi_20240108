@@ -39106,7 +39106,7 @@ GameObject:
   - component: {fileID: 1375937824}
   - component: {fileID: 1375937823}
   m_Layer: 0
-  m_Name: The worm
+  m_Name: Crazy bird
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -39930,7 +39930,7 @@ MonoBehaviour:
   m_PreserveMeshAssetOnDestroy: 0
   assetGuid: 
   m_Mesh: {fileID: 23221305}
-  m_VersionIndex: 25
+  m_VersionIndex: 28
   m_IsSelectable: 1
   m_SelectedFaces: 
   m_SelectedEdges: []
@@ -39944,8 +39944,8 @@ Transform:
   m_GameObject: {fileID: 1375937822}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 3.327, y: 1.001, z: 2.8098}
-  m_LocalScale: {x: 1, y: 0.76899, z: 0.080324}
+  m_LocalPosition: {x: 3.327, y: -0.46, z: 2.35}
+  m_LocalScale: {x: 1, y: 0.76899, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
